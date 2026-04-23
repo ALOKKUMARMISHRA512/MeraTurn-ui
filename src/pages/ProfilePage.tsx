@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
-import { 
-  User, Phone, Mail, Users, History, CreditCard, 
-  Settings, HelpCircle, LogOut, ChevronRight, Edit 
+import {
+  Phone, Mail, Users, History, CreditCard,
+  Settings, HelpCircle, LogOut, ChevronRight, Edit
 } from 'lucide-react';
 import Header from '@/components/layout/Header';
 import MobileNav from '@/components/layout/MobileNav';

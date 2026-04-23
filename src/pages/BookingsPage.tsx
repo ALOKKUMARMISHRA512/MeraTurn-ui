@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Calendar, MapPin, Clock, CheckCircle2, XCircle, AlertCircle } from 'lucide-react';
+import { Calendar, Clock, CheckCircle2, XCircle, AlertCircle } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import Header from '@/components/layout/Header';
 import MobileNav from '@/components/layout/MobileNav';
